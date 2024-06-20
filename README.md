@@ -8,4 +8,4 @@
 6. [Authentication](activities/06_authentication.md)
 7. [Authorization](activities/07_authorization.md)
 8. [Source Code Review Fun](activities/08_source_code_review)
-9. [Resources](activities/09_resources)# workshop-secure-coding
+9. [Resources](activities/09_resources)
